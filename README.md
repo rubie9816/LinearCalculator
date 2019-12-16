@@ -1,4 +1,4 @@
-# CalculadoraSubneteo
+# Calculadora linear
 
 ## Descripción
 
